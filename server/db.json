@@ -1,0 +1,70 @@
+{
+  "mascotas": [
+    {
+      "id": 1,
+      "titulo": "Vendo perrito feooo",
+      "transaccion": "ventas",
+      "descripcion": "Es un caniche blanco",
+      "precio": "1500",
+      "animal": "Perro",
+      "raza": "Caniche",
+      "nacimiento": "2000-11-13",
+      "vacuna": "Si"
+    },
+    {
+      "id": 2,
+      "titulo": "Vendo gatito",
+      "transaccion": "ventas",
+      "descripcion": "Es un gatito lindo y se llama Silvestre",
+      "precio": "12341",
+      "animal": "Gato",
+      "raza": "Gatito",
+      "nacimiento": "2021-03-12",
+      "vacuna": "No"
+    },
+    {
+      "id": 3,
+      "titulo": "Vendo perrito malvado",
+      "transaccion": "ventas",
+      "descripcion": "Es un perro muy malvado",
+      "precio": "1555",
+      "animal": "Perro",
+      "raza": "Doberman",
+      "nacimiento": "1999-11-11",
+      "vacuna": "Si"
+    },
+    {
+      "id": 4,
+      "titulo": "Vendo perrito feooo",
+      "transaccion": "ventas",
+      "descripcion": "Es un caniche blanco",
+      "precio": "1500",
+      "animal": "Perro",
+      "raza": "Caniche",
+      "nacimiento": "2000-11-13",
+      "vacuna": "Si"
+    },
+    {
+      "id": 5,
+      "titulo": "Vendo gatito",
+      "transaccion": "ventas",
+      "descripcion": "Es un gatito lindo y se llama Silvestre",
+      "precio": "12341",
+      "animal": "Gato",
+      "raza": "Gatito",
+      "nacimiento": "2021-03-12",
+      "vacuna": "No"
+    },
+    {
+      "id": 6,
+      "titulo": "Vendo perrito malvado",
+      "transaccion": "ventas",
+      "descripcion": "Es un perro muy malvado",
+      "precio": "1555",
+      "animal": "Perro",
+      "raza": "Doberman",
+      "nacimiento": "1999-11-11",
+      "vacuna": "Si"
+    }
+  ]
+}
