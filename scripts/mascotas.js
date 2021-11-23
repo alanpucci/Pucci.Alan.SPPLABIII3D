@@ -7,7 +7,7 @@ const crearCards = async () => {
         const $card = create('div');
         const $h2 = create('h2');
         const h3Text = document.createTextNode(`${mascota.titulo}`);
-        const $h4 = create('h4');
+        const $h4 = create('h6');
         const h4Text = document.createTextNode(`${mascota.descripcion} ${mascota.vacuna == "Si" ? "con": "sin"} vacunas al día`);
         const $span = create('p');
         const spanText = document.createTextNode(`$ ${mascota.precio}`);
@@ -34,9 +34,9 @@ const crearCards = async () => {
         $razaContainer.classList.add('col-md-12');
         $razaContainer.classList.add('col-lg-4');
         $nacimientoContainer.classList.add('col-md-12');
-        $nacimientoContainer.classList.add('col-lg-4');
+        $nacimientoContainer.classList.add('col-lg-5');
         $vacunacionContainer.classList.add('col-md-12');
-        $vacunacionContainer.classList.add('col-lg-4');
+        $vacunacionContainer.classList.add('col-lg-3');
         $nacimientoContainer.appendChild($imagenNacimiento);
         $nacimientoContainer.appendChild($nacimientoTexto);
         $vacunacionContainer.appendChild($imagenVacuna);
