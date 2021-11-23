@@ -1,17 +1,6 @@
 {
   "mascotas": [
     {
-      "id": 1,
-      "titulo": "Vendo perrito feooo",
-      "transaccion": "ventas",
-      "descripcion": "Es un caniche blanco",
-      "precio": "1500",
-      "animal": "Perro",
-      "raza": "Caniche",
-      "nacimiento": "2000-11-13",
-      "vacuna": "Si"
-    },
-    {
       "id": 2,
       "titulo": "Vendo gatito",
       "transaccion": "ventas",
@@ -56,15 +45,26 @@
       "vacuna": "No"
     },
     {
-      "id": 6,
-      "titulo": "Vendo perrito malvado",
+      "id": 7,
+      "titulo": "Gato egipcio",
       "transaccion": "ventas",
-      "descripcion": "Es un perro muy malvado",
-      "precio": "1555",
-      "animal": "Perro",
-      "raza": "Doberman",
-      "nacimiento": "1999-11-11",
-      "vacuna": "Si"
+      "descripcion": "Vendo gato egipcio super mega hiper caro",
+      "precio": "3000000",
+      "animal": "Gato",
+      "raza": "Egipcia",
+      "nacimiento": "2010-02-11",
+      "vacuna": "No"
+    },
+    {
+      "id": 8,
+      "titulo": "vendo gatito",
+      "transaccion": "ventas",
+      "descripcion": "el gatito mas lindo que vas a conocer",
+      "precio": "300",
+      "animal": "Gato",
+      "raza": "desconocida",
+      "nacimiento": "2000-03-12",
+      "vacuna": "No"
     }
   ]
 }

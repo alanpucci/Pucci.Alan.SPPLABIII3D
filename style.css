@@ -20,7 +20,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: orange;
+  background: linear-gradient(#5f2c82,#49a09d);
   position: fixed;
   top: 0;
   left: 0;
@@ -29,7 +29,7 @@ nav {
 
 footer {
   height: 50px;
-  background-color: orange;
+  background: linear-gradient( #5f2c82, #49a09d);
   margin-top: 100px;
   width: 100%;
   display: flex;
@@ -43,7 +43,7 @@ footer span {
 }
 
 .navbar_custom {
-  background-color: transparent;
+  background: transparent;
   position: fixed;
 }
 
@@ -101,6 +101,17 @@ a {
   background-color: blue;
   color: white;
   border: none;
+}
+
+.filtros{
+  background: linear-gradient(45deg,  #5f2c82,#49a09d);
+  height: 150px; 
+  border:2px solid black; 
+  border-radius: 10px;
+}
+
+.blanco{
+  color:white
 }
 
 table {
@@ -233,7 +244,7 @@ button {
     color: white;
     font-size: 40px;
   }
-  ul {
+  .ul {
     flex-direction: column;
     margin-right: 0;
     margin-bottom: 40px;
